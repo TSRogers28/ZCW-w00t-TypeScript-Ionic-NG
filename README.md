@@ -6,6 +6,7 @@ Work with each other to learn these ideas in groups.
 
 The goal here is to absorb a bunch of new tech, in a short period of time. You can do this by making sure you have something visible (demoable) by the end. If that means you have reduce the amount of features and functionality in the app to keep it demoable, so be it. But, try to make something useful. Be sure to have some kind of User Interface, some business logic and some kind of data storage.
 
+### Possible Methodology
 1. Research Typescript/Ionic/Angular (use the latest versions)
     2. What they are, what they do.
     3. Download them and get them installed. (and Cordova? and Node.js? and?)
@@ -26,3 +27,15 @@ The goal here is to absorb a bunch of new tech, in a short period of time. You c
 8. Build the project in chosen
 9. Test
 10. Demoable by Noon on Monday
+
+### Some Useful(?) Links
+
+* VSC: <https://code.visualstudio.com/>
+* <http://www.typescriptlang.org/>
+* <https://www.pluralsight.com/courses/typescript-getting-started>
+
+* GitHub: <https://github.com/Microsoft/TypeScript>
+* <https://www.typescriptlang.org/index.html#download-links>
+* <https://medium.com/quick-code/top-tutorials-to-learn-typescript-c08834892e69>
+* <https://demo.mobiscroll.com/>
+* <https://github.com/ionicthemes>
