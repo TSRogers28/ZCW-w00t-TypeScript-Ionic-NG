@@ -38,9 +38,8 @@ The goal here is to absorb a bunch of new tech, in a short period of time. You c
 * <https://www.pluralsight.com/courses/typescript-getting-started>
 
 * GitHub: <https://github.com/Microsoft/TypeScript>
-* <https://www.typescriptlang.org/index.html#download-links>
 * <https://medium.com/quick-code/top-tutorials-to-learn-typescript-c08834892e69>
 * <https://github.com/brookshi/awesome-typescript-projects>
 * <https://ionicframework.com/docs/intro/installation/>
-* <https://demo.mobiscroll.com/>
+* <https://ionicframework.com/docs/components/#overview>
 * <https://github.com/ionicthemes>
