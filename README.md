@@ -18,6 +18,9 @@ The goal here is to absorb a bunch of new tech, in a short period of time. You c
 4. Research and get to know Ionic/Angular
     5. Skim, scan and familiarize
 5. Choose a personal project to implment from [https://git.zipcode.rocks/kristofer/PossibleMiniProjects](Possible Mini Projects)
+    6. Each app probably has a list of things,
+    7. And a detail page about each thing.
+    8. Adding new ones, editing details, deleting them might be things you could do.
 6. Design a few UI screens for Ionic, keep them pretty basic
     7. no need for an authentication layer, keep it simple
     8. example screens might be, list of items, a item's detail page, a screen to edit stuff about an item...
